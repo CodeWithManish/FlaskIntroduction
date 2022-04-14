@@ -1,0 +1,23 @@
+body{
+margin: 0;
+font-family: sans-sarif;
+background-color: lightblue;
+}
+.content{
+margin: 0 auto;
+width: 400px;
+}
+th{
+   height:30px;
+   }
+
+td{
+    text-align: center;
+    padding: 5px;
+}
+.form{
+    margin-top: 20px;
+}
+#content{
+    width:70%;
+}
